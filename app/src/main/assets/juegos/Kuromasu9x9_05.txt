@@ -1,0 +1,19 @@
+. 6 2 . . . . . .
+. . . . . . 5 3 .
+. . . . . . . . .
+. . . . 5 . . . .
+6 . . . 3 . . . 3
+. . . . 6 . . . .
+. . . . . . . . .
+. 4 2 . . . . . .
+. . . . . . 4 2 .
+
+N 6 2 N B B B N B
+B B N B B N 5 3 B
+N B B B N B B N B
+B B N B 5 B N B N
+6 B B N 3 N B B 3
+B N B B 6 B N B N
+B B N B N B B B B
+N 4 2 N B B B N B
+B B N B B N 4 2 N
