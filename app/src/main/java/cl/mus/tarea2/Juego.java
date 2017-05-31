@@ -164,7 +164,7 @@ public class Juego extends AppCompatActivity {
 
                 salida[i][j]=colores.substring(contador,contador+1);
                 contador++;
-                System.out.print(salida[i][j]);
+                System.out.print("\tcontador+1:"+contador+ "salida: "+salida[i][j]);
             }
             System.out.println("");
         }
